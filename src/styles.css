@@ -1,5 +1,5 @@
 body {
-  margin-top: 25px;
+  margin: 25px 60px;
 }
 h2,
 p,
@@ -12,6 +12,9 @@ a {
 a {
   color: blueviolet;
   text-decoration: none;
+}
+img {
+  max-width: 100px;
 }
 .mail-link {
   color: red;
